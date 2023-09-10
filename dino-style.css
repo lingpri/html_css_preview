@@ -1,0 +1,25 @@
+  header {
+    background-color: #75756e;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 0 25px 0;
+  }
+
+  main {
+    background-color: beige;
+    width: 1000px;
+    padding: 10px;
+    border: solid 5px gold;
+    
+  }
+
+  footer {
+
+    background-color: #75756e;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 25px;
+    
+  }
